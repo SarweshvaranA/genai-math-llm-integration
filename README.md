@@ -18,7 +18,7 @@ Give the essential function calling code into it
 Integrate the function into an LLM-based chat completion system with function-calling capabilities.
 
 ### PROGRAM:
-```
+```python
 from dotenv import load_dotenv
 import google.generativeai as genai
 import os
